@@ -20,5 +20,5 @@ public class histogramGenerator<T> {
                 
             }
         return histogram;
-    }
+    }   
 }
